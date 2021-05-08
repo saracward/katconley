@@ -1,6 +1,6 @@
 import React from 'react'
 
-const setdesign = () => {
+const SetDesign = () => {
     return (
         <div>
             <p>hello set design page
@@ -9,4 +9,4 @@ const setdesign = () => {
     )
 }
 
-export default setdesign
+export default SetDesign
