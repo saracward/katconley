@@ -17,5 +17,5 @@
 .navbar a:hover {
   color: #fff;
   text-shadow: 0 0 0 #fff, 0 0 10px #fff, 0 0 20px #fff;
-  border-bottom: 2px solid #fff;
+  /* border-bottom: 0px; */
 }
