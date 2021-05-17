@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer">
           <i>IMDB</i>
           <i>YouTube</i>
-          <i>Facebook</i>
+          <a href="https://www.facebook.com/kat.conley.5">Facebook</a>
           <i>Instagram</i>
           <i>Twitter</i>
         </div>
