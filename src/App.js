@@ -1,6 +1,6 @@
 import './App.css';
 import { Switch, Route } from "react-router-dom"
-import {useState} from 'react'
+import {useEffect} from 'react'
 import Navbar from "./components/Navbar"
 import Landing from "./components/Landing"
 import About from "./components/About"

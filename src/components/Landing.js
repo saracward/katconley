@@ -7,8 +7,7 @@ const Landing = () => {
     return (
         <>
         <div className="landing-container">
-            <h1>Kat Conley</h1>
-            <p>What is Scenic Design:</p>
+            <p>Kat Conley</p>
             <Carousel>
   <Carousel.Item>
     <img

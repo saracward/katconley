@@ -8,8 +8,14 @@
   align-items: center;
 }
 
-.footer p {
+.footer a {
   color: #fff;
+}
+
+.footer a:hover {
+  color: #fff;
+  text-shadow: 0 0 0 #fff, 0 0 10px #fff, 0 0 20px #fff;
+  /* border-bottom: 0px; */
 }
 
 .logo {
