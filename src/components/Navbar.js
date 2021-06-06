@@ -4,7 +4,7 @@ import SetArt from "./SetArt"
 import SetDesign from "./SetDesign"
 import Contact from "./Contact"
 import { Link } from "react-router-dom"
-import "../styles/Navbar.css"
+// import "./styles/Navbar.css"
 
 const Navbar = () => {
     return (
